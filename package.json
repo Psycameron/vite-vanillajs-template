@@ -9,6 +9,14 @@
     "preview": "vite preview"
   },
   "devDependencies": {
+    "glob": "^10.4.5",
+    "postcss": "^8.4.47",
+    "postcss-sort-media-queries": "^5.2.0",
+    "sass": "^1.79.5",
     "vite": "^5.4.8"
+  },
+  "dependencies": {
+    "vite-plugin-full-reload": "^1.2.0",
+    "vite-plugin-html-inject": "^1.1.2"
   }
 }
